@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kubra190
+- 👋 Hi, I’m Kubra Girisken
 - 👀 I’m interested in software .
 - 🌱 I’m currently learning Java .
 - 💞️ I’m looking to collaborate on ...
