@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kubra Girisken
-- 👀 I’m interested in software .
-- 🌱 I’m currently learning Java .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👩‍💻 I'm currently a final year computer engineering student. .
+- 💻 I'm currently advancing my projects on Oracle and Spring Boot..
+- 👀 You can check my LinkedIn account.
+
 
 <!---
 kubra190/kubra190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
